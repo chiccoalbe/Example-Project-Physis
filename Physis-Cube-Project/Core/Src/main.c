@@ -98,6 +98,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    Add your name here!:
+    - Enrico
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
