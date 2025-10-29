@@ -81,6 +81,12 @@ int main(void)
 
   /* USER CODE BEGIN SysInit */
 
+  /*
+   *
+   *
+   * MODIFICATION
+   */
+
   /* USER CODE END SysInit */
 
   /* Initialize all configured peripherals */
